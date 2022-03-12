@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.genruntimeconfig.cache

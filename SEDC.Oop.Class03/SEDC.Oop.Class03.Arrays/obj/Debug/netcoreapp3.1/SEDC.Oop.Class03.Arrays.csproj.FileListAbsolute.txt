@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.exe
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.deps.json
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.genruntimeconfig.cache

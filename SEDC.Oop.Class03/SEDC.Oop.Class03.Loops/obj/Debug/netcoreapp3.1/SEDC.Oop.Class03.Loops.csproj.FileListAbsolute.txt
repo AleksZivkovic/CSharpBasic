@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.genruntimeconfig.cache

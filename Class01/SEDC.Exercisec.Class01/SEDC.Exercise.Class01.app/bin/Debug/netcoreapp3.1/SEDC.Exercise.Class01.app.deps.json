@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Exercise.Class01.app/1.0.0": {
+        "runtime": {
+          "SEDC.Exercise.Class01.app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Exercise.Class01.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.genruntimeconfig.cache
