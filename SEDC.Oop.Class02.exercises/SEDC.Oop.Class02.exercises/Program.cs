@@ -8,7 +8,7 @@ namespace SEDC.Oop.Class02.exercises
         {
             //Console.WriteLine("Hello World!");
 
-            Stefan fatal error 
+             
             //int n = 102;
             //int m = 5;
 
