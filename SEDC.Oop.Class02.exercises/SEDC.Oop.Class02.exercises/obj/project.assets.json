@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\": {}
+    "C:\\Users\\Aleksandar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\source\\repos\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+      "projectUniqueName": "E:\\Test1\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
       "projectName": "SEDC.Oop.Class02.exercises",
-      "projectPath": "C:\\Users\\aleksandar.zivkovikj\\source\\repos\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
-      "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleksandar.zivkovikj\\source\\repos\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\obj\\",
+      "projectPath": "E:\\Test1\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+      "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+      "outputPath": "E:\\Test1\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

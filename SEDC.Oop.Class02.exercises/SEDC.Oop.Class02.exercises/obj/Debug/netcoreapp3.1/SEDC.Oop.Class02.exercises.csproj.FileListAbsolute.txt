@@ -11,3 +11,17 @@ C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.C
 C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
 C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
 C:\Users\aleksandar.zivkovikj\source\repos\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.genruntimeconfig.cache
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.csproj.AssemblyReference.cache
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfoInputs.cache
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfo.cs
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.csproj.CoreCompileInputs.cache
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.exe
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.deps.json
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.json
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.dev.json
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+E:\Test1\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.genruntimeconfig.cache
