@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj": {}
+    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj": {
+    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj",
         "projectName": "SEDC.Oop.Class03.Arrays",
-        "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj",
+        "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\SEDC.Oop.Class03.Arrays.csproj",
         "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\obj\\",
+        "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",

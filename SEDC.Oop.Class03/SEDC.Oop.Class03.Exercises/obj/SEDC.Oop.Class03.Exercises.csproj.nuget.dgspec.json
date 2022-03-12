@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj": {}
+    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj": {
+    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj",
+        "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj",
         "projectName": "SEDC.Oop.Class03.Exercises",
-        "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj",
+        "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\SEDC.Oop.Class03.Exercises.csproj",
         "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\obj\\",
+        "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Exercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",

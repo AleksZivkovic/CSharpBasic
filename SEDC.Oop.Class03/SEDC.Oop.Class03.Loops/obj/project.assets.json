@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
+      "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
       "projectName": "SEDC.Oop.Class03.Loops",
-      "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
+      "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
       "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\obj\\",
+      "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
