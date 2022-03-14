@@ -1,0 +1,13 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.genruntimeconfig.cache
