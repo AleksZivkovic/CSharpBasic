@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C\SEDC.Oop.Class05\SEDC.Oop.Class05.Exercises\SEDC.Oop.Class05.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Exercises.genruntimeconfig.cache
