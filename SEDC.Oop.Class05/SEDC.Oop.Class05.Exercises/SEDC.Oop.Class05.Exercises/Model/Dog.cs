@@ -20,9 +20,9 @@ namespace SEDC.Oop.Class05.Exercises.Model
         {
         }
 
-        public void Talk(string text)
+        public string Talk()
         {
-            Console.WriteLine("The dog is now eating");
+            return ($"The {Name} dog is now eating");
         }
     }
 }

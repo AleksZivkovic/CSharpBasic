@@ -13,11 +13,11 @@ namespace SEDC.Oop.Class05.Exercises
 
 
 
-            Dog.Talk("The dog is now eating");
+            dog.Talk();
 
 
-
-            Console.ReadLine();
+            string message = dog.Talk();
+            Console.WriteLine(message);
 
 
 
