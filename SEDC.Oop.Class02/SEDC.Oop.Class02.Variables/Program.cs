@@ -6,39 +6,43 @@ namespace SEDC.Oop.Class02.Variables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SEDC!");
+            Console.WriteLine("Hello SEDC");
 
-            // brojki          
+            // brojki
             int number = 3;
-            // number = 123456789123546; // cannot put bif number into an 32 bit integer 
-            long bigNumber = 123456789123456;
+            // number = 123456789012345; // cannot put big numebr into an 32 bit integer
+            long bigNumber = 123456789012345;
             short shortNumber = 12000;
-            byte smallNumber = 8;
+            byte smallNumber = 255;
 
             double doublePrecisionNumber = 12.093213;
-            float singlePrecisionNumber = 123.1F;
+            float singlePrecisionNumber = 123.1f;
 
-            string str = "Aleksandar Zivkovic";
+            string str = "Trajan Stevkovski";
             char character = 'a';
 
             bool isSomethingTrue = false;
             DateTime currentDate = new DateTime();
 
-            // var a = 123456789123456;
-            // a = 123456789123456,
+            int module = 10;
+            module %= 3;
+            //Console.WriteLine(module);
 
-            //Console.WriteLine("================DATA ENTRY=================");
+            // var a = 123456789012345;
+            //a = 123456789012345;
+
+            //Console.WriteLine("==================DATA ENTRY==================");
 
             //string input = Console.ReadLine();
 
             //Console.WriteLine("This is the input value: " + input);
 
-            //// int parsedToInteger = int.Parse(input);
-            ////Console.WriteLine("This is the paresed input value: " + parsedToInteger);
+            //int parsedToInteger = int.Parse(input);
+            //Console.WriteLine("This is the parsed input value: " + parsedToInteger);
 
-            ////bool parsedToBoolean = Convert.ToBoolean(input);
-            ////int parsedToBoolean = Convert.ToInt32(input);
-            ////Console.WriteLine("This is the paresed input value: " + parsedToBoolean);
+            //bool parsedToBoolean = Convert.ToBoolean(input);
+            //int parsedToBoolean = Convert.ToInt32(input);
+            //Console.WriteLine("This is the parsed input value: " + parsedToBoolean);
 
             //long parsedToLong = 0;
             //bool isValidInput = long.TryParse(input, out parsedToLong);
@@ -46,52 +50,57 @@ namespace SEDC.Oop.Class02.Variables
             //bool isValidInput1 = long.TryParse(input, out long parsedToLong1);
 
             //Console.WriteLine("Is parsing valid: " + isValidInput);
-            //Console.WriteLine("This is the paresed input value: " + parsedToLong);
+            //Console.WriteLine("This is the parsed input value: " + parsedToLong);
 
-            //string parsedTolong = parsedToLong.ToString();
+            //string parsedToString = parsedToLong.ToString();
 
-            Console.WriteLine("=============================BRANCHING=======================");
+            Console.WriteLine("==================BRANCHING===================");
 
             string input = Console.ReadLine();
 
-            bool isValidInteger = int.TryParse(input, out int parsedinput);
+            bool isValidInteger = int.TryParse(input, out int parsedInput);
 
+            if (isValidInteger)
+            {
+                Console.WriteLine("The parsed number is: " + parsedInput);
+            }
+            else
+            {
+                Console.WriteLine("Not valid input!");
+            }
 
-            //if(isValidInteger)
-            //{
-            //    Console.WriteLine("The parsed number is: " + parsedInput);
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Not valid input!");
-            
             int firstNumber = 5;
             int secondNumber = 10;
             int thirdNumber = 15;
-            int fourNumber = 20;
+            int fourthNumber = 20;
 
-            if(firstNumber < secondNumber && firstNumber > thirdNumber)
+            if (firstNumber < secondNumber && firstNumber > thirdNumber)
             {
                 Console.WriteLine("The if statement is TRUE");
-            } 
-            else if (thirdNumber < fourNumber || secondNumber > fourNumber)
+            }
+            else if (thirdNumber < fourthNumber || secondNumber > fourthNumber)
             {
                 Console.WriteLine("The first else if statement is TRUE");
-            } 
-            else if(firstNumber < secondNumber)
+            }
+            else if (firstNumber < secondNumber)
             {
                 Console.WriteLine("The second else if statement is TRUE");
-            } 
+            }
+            else if (!(firstNumber < secondNumber))
+            {
+                Console.WriteLine("The third esle if statement is TRUE");
+            }
             else
             {
                 Console.WriteLine("We are in else");
             }
 
+            Console.WriteLine("===============SWITCH====================");
 
 
 
 
-            //Console.ReadLine();
-            }
+
+        }
     }
 }

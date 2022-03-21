@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj": {}
+    "E:\\WEB DEV\\5.C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj": {
+    "E:\\WEB DEV\\5.C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj",
+        "projectUniqueName": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj",
         "projectName": "SEDC.Oop.Class05.Classes",
-        "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj",
-        "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\obj\\",
+        "projectPath": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\SEDC.Oop.Class05.Classes.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class05\\SEDC.Oop.Class05.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
