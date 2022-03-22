@@ -12,3 +12,17 @@ C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops
 C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.dll
 C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.pdb
 C:\Users\aleksandar.zivkovikj\Desktop\C#\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.genruntimeconfig.cache
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.exe
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.deps.json
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.runtimeconfig.json
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.runtimeconfig.dev.json
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.dll
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.pdb
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.csproj.AssemblyReference.cache
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.AssemblyInfoInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.AssemblyInfo.cs
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.csproj.CoreCompileInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.dll
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.pdb
+E:\WEB DEV\C\SEDC.Oop.Class03\SEDC.Oop.Class03.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class03.Loops.genruntimeconfig.cache
