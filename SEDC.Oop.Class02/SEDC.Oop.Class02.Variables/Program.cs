@@ -97,7 +97,31 @@ namespace SEDC.Oop.Class02.Variables
 
             Console.WriteLine("===============SWITCH====================");
 
+            int someNumber = 3;
 
+            switch (someNumber)
+            {
+                case 1:
+                    Console.WriteLine("We are at case 1");
+                    break;
+                //case 'a': // this is valid
+                // break;
+                //case "Something": // this is not valid
+                // break;
+                case 2:
+                    Console.WriteLine("We are at case 2");
+                    break;
+                case 3:
+                case 4:
+                case 5:
+                    Console.WriteLine("We are at case 3,4,5");
+                    break;
+                default:
+                    Console.WriteLine("If non of the cases is executed im always executed");
+                    break;
+            }
+
+            Console.ReadLine();
 
 
 

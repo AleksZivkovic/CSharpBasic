@@ -39,3 +39,17 @@ E:\WEB DEV\5.C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\n
 E:\WEB DEV\5.C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
 E:\WEB DEV\5.C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
 E:\WEB DEV\5.C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.genruntimeconfig.cache
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.exe
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.deps.json
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.json
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.runtimeconfig.dev.json
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.csproj.AssemblyReference.cache
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfoInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.AssemblyInfo.cs
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.csproj.CoreCompileInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.dll
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02.exercises\SEDC.Oop.Class02.exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.exercises.genruntimeconfig.cache
