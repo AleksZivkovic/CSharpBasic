@@ -47,21 +47,26 @@ namespace SEDC.Oop.Class02.exercises
 
 
             //======================exercise 5===================================
-            int N = 8;
-            int M = 5;
+           
             Console.WriteLine("Please enter a number:");
             string input = Console.ReadLine();
             bool isValidInteger = int.TryParse(input, out int parsedInput);
 
             if (isValidInteger)
             {
-                Console.WriteLine();
+                Console.WriteLine("The number is valid!");
+                int N = 8;
+                int M = 5;
+
+                int result = parsedInput * N / M;
+                Console.WriteLine("You will need " + result + " baskets!");
+            }            
+            else  
+            {
+                Console.WriteLine("Nice try :)");
+                Console.WriteLine("Please enter a valid number!");
             }
-
-
-
-
-
+            
 
             //======================exercise 6===================================
             //string firstvariable = Console.ReadLine();

@@ -1,0 +1,14 @@
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.exe
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.deps.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.runtimeconfig.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.runtimeconfig.dev.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.csproj.AssemblyReference.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.AssemblyInfoInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.AssemblyInfo.cs
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.csproj.CoreCompileInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.SwapNumbers\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.SwapNumbers.genruntimeconfig.cache

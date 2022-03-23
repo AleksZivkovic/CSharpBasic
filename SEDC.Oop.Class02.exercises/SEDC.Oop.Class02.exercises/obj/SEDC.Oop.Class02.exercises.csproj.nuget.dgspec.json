@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
         "packagesPath": "C:\\Users\\aleksandar.zivkovikj\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\obj\\",
+=======
+    "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj": {}
+  },
+  "projects": {
+    "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+        "projectName": "SEDC.Oop.Class02.exercises",
+        "projectPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\obj\\",
+>>>>>>> 2924a9a3bf2d79753f345753add6612fc91f4340
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleksandar.zivkovikj\\AppData\\Roaming\\NuGet\\NuGet.Config",

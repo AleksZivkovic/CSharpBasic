@@ -1,0 +1,14 @@
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.exe
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.deps.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.runtimeconfig.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.runtimeconfig.dev.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.csproj.AssemblyReference.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.AssemblyInfoInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.AssemblyInfo.cs
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.csproj.CoreCompileInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.AverageNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.AverageNumber.genruntimeconfig.cache

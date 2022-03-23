@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Test1\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
+      "projectUniqueName": "E:\\WEB DEV\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
       "projectName": "SEDC.Oop.Class03.Loops",
-      "projectPath": "E:\\Test1\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
+      "projectPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\SEDC.Oop.Class03.Loops.csproj",
       "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-      "outputPath": "E:\\Test1\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\obj\\",
+      "outputPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class03\\SEDC.Oop.Class03.Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",

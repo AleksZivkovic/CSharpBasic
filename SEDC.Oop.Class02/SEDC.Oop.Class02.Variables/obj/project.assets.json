@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\SEDC.Oop.Class02.Variables.csproj",
+      "projectUniqueName": "E:\\WEB DEV\\C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\SEDC.Oop.Class02.Variables.csproj",
       "projectName": "SEDC.Oop.Class02.Variables",
-      "projectPath": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\SEDC.Oop.Class02.Variables.csproj",
+      "projectPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\SEDC.Oop.Class02.Variables.csproj",
       "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-      "outputPath": "E:\\WEB DEV\\5.C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\obj\\",
+      "outputPath": "E:\\WEB DEV\\C\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",

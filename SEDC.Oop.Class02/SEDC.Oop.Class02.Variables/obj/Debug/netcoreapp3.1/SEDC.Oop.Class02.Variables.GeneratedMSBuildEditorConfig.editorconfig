@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = SEDC.Oop.Class02.Variables
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\
+=======
+build_property.ProjectDir = E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\
+>>>>>>> 2924a9a3bf2d79753f345753add6612fc91f4340

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "sg7Oc9O0uor/sG0klr91o0cay9UIhGgbYGSetaf0pbr4g1h90IHlN0q+sAaIjC/K6rNE/cVD/GsSKtawD3b/BQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\aleksandar.zivkovikj\\Desktop\\C#\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+=======
+  "dgSpecHash": "WBQY5TV2jw7+DibSL0yV0tQwb6OarIK5ecGEbYwoQxjbxY9wHVSzKTxfZo0rgUISZai5Zyfp+S3GjOpYhcR+FQ==",
+  "success": true,
+  "projectFilePath": "E:\\WEB DEV\\C\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises\\SEDC.Oop.Class02.exercises.csproj",
+>>>>>>> 2924a9a3bf2d79753f345753add6612fc91f4340
   "expectedPackageFiles": [],
   "logs": []
 }

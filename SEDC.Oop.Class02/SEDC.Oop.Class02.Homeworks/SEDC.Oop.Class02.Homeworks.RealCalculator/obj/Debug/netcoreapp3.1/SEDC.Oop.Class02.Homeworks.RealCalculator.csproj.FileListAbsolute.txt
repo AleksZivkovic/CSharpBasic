@@ -1,0 +1,14 @@
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.exe
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.deps.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.runtimeconfig.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.runtimeconfig.dev.json
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.csproj.AssemblyReference.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.AssemblyInfoInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.AssemblyInfo.cs
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.csproj.CoreCompileInputs.cache
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.dll
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.pdb
+E:\WEB DEV\C\SEDC.Oop.Class02\SEDC.Oop.Class02.Homeworks\SEDC.Oop.Class02.Homeworks.RealCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Homeworks.RealCalculator.genruntimeconfig.cache

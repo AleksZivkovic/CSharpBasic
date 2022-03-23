@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = SEDC.Templates.Class01.App
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\aleksandar.zivkovikj\Desktop\C#\C\Class01\SEDC.Templates\SEDC.Templates.Class01.App\
+=======
+build_property.ProjectDir = E:\WEB DEV\C\Class01\SEDC.Templates\SEDC.Templates.Class01.App\
+>>>>>>> 2924a9a3bf2d79753f345753add6612fc91f4340
