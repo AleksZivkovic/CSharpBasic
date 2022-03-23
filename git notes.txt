@@ -1,0 +1,8 @@
+pred da pocnes 
+git pull
+
+posle promenite
+
+git add .
+git commit -m "poraka za promenite"
+git push
