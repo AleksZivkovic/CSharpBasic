@@ -1,0 +1,14 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.csproj.AssemblyReference.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.genruntimeconfig.cache

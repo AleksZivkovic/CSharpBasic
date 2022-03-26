@@ -1,0 +1,13 @@
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.AssemblyInfoInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.AssemblyInfo.cs
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.exe
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.deps.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.runtimeconfig.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.runtimeconfig.dev.json
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.dll
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.pdb
+C:\Users\aleksandar.zivkovikj\Desktop\C#\C\SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.Exercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.Exercises.genruntimeconfig.cache
