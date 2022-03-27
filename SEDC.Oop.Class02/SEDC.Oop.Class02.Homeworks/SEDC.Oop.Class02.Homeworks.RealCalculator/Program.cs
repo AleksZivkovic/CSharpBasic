@@ -55,6 +55,7 @@ namespace SEDC.Oop.Class02.Homeworks.RealCalculator
             else
             {
                 Console.WriteLine("Please enter a valid Opertation!");
+                Console.WriteLine("Git");
             }
         }
     }
