@@ -7,6 +7,7 @@ namespace SEDC.Oop.Class08.InheritanceApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World again");
         }
     }
 }
