@@ -14,7 +14,6 @@ namespace SEDC.Oop.Class08.Exercise2
             };
             Console.WriteLine(person.FirstName + person.LastName + person.Id);
             person.GetFavSongs();
-            
         }
     }
 }
